@@ -1,0 +1,28 @@
+ULTIBOARD DRILL REPORT
+
+Design: ELEC130ProjectBoard150122A
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.5 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                                   LAMINATION
+ELEC130ProjectBoard150122A - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1  0.15000    PTH      2
+   2  0.03500    PTH    156
+   3  0.04000    PTH     34
+   4  0.05000    PTH      6
+   5  0.04333    PTH      2
+   6  0.10000    PTH      2
+   7  0.03937    PTH      5
+   8  0.03000    PTH      6
+   9  0.02362    PTH      9
